@@ -1,0 +1,154 @@
+body{
+  background-color: #00000063;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+  font-family: 'Poppins', sans-serif;
+  overflow: auto;
+}
+#lyric-blockquote{
+  height: auto;
+  overflow-y: scroll;
+  margin-bottom: 12px;
+}
+
+.card{
+  /* height: 60vh; */
+  height: auto;
+  width: 100%;
+  border:none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px #0000008c;   
+  margin-bottom: 20px;
+  background: white;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;  
+}
+
+.output {
+  width: 100%;
+  border: none;
+  /* border-radius: 5px; */
+  /* box-shadow: 0px 0px 10px 0px #0000008c; */
+  background: rgba(82, 82, 82, 0.22);
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+  /* max-height: 400px; */
+  /* height: 60vh; */
+  height: auto;
+  max-height: 60vh;
+  /* text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; */
+  overflow: auto;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+#output-text {
+  max-height: 400px;
+  /* overflow-y: auto; */
+  white-space: pre-line;
+  text-align: left;
+}
+
+.btr{
+  border-top-right-radius: 5px !important;
+}
+
+.btl{
+  border-top-left-radius: 5px !important;
+}
+
+.btn-dark {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.btn-dark:hover {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.nav-pills{
+  display:table !important;
+  width:100%;
+}
+
+.nav-pills .nav-link {
+  border-radius: 0px;
+  border-bottom: 1px solid #0d6efd40;
+}
+
+.nav-item{
+  display: table-cell;
+  background: #0d6efd2e;
+}
+
+.form{
+  padding: 10px;
+  height: auto;
+  max-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+}
+
+.form input{
+  margin-bottom: 12px;
+  border-radius: 3px;
+  box-shadow: none;
+  border: 1px solid #ced4da;
+  height: 40px;
+  padding: 10px; 
+}
+
+.form input:focus{
+  box-shadow: none;
+}
+
+.form button{
+  margin-top: 20px;
+}
+
+
+/* Make layout responsive on smaller screens */
+@media (max-width: 600px) {
+  .row {
+    flex-direction: column;
+  }
+
+  .col-md-7, .col-md-5 {
+    width: 100% !important;
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+
+  .card,
+  .output {
+    height: auto !important;
+    min-height: unset;
+  }
+
+  .output {
+    margin-top: 20px;
+  }
+
+  #output-text {
+    white-space: normal;
+    word-break: break-word;
+  }
+
+  #lyric-blockquote {
+    max-height: 200px;
+    overflow-y: auto;
+  }
+}
