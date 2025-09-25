@@ -4,43 +4,61 @@
 <p>&nbsp;</p>
 <p><strong><h3>Pasting Lyrics</h3></strong></p>
 <p>If you already have the song lyrics you want, you can just paste them here in the lyric box</p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-137911 alignleft" src="!-- Image here --!"  alt="" width="476" height="283" sizes="(max-width: 476px) 100vw, 476px" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>
+  <img width="1440" height="737" alt="Pasting Lyrics" src="https://github.com/user-attachments/assets/f6ec80b1-87bf-45fc-beb8-686f009a0ae8" />
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Word Length</strong></p>
 <p>Select your desired word length from the number dropdown below. You can pick any number between 1-99. You will need to select a number from this list, otherwise it will give you an error.</p>
-<p><img decoding="async" class="wp-image-137910" src="!-- Image here --!" alt="" width="475" height="282" sizes="(max-width: 475px) 100vw, 475px" /></p>
+<p>
+  
+  <img width="847" height="721" alt="Length error zoomed" src="https://github.com/user-attachments/assets/bbbf1aa6-9a25-40ed-98c8-e1cb651d026b" />
+
+![1 Paste Lyrics](https://github.com/user-attachments/assets/a9e537e8-6152-4c86-8ef0-1648282fe5ae)
+</p>
 <p>&nbsp;</p>
 <p><strong>Find</strong></p>
 <p>Once you enter all the fields, click find and you will get a list of all your selected words. For Example: if you select "4" from the number dropdown, then the tool will return all the 4-letter-words within the lyrics that you pasted</p>
-<p><img decoding="async" class="alignnone wp-image-137912 alignleft" src="!-- Image here --!" alt="" width="474" height="281" sizes="(max-width: 474px) 100vw, 474px" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>
+  
+![2 Paste Results](https://github.com/user-attachments/assets/f17aa6a5-bf78-402b-87ec-504f982868eb)
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><h3>Lyric Search</h3></strong></p>
 <p>If you don't have the lyrics already and want to generate them automaticlly, click on lyric lookup. On this screen you enter the desired artist name, song title, and word length, then click find. If the song is found, it will return a list of all the words of your selected word length.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-137903 alignleft" src="!-- Image here --!" alt="" width="324" height="192"  sizes="auto, (max-width: 324px) 100vw, 324px" /><img loading="lazy" decoding="async" class="alignnone wp-image-137904" src="!-- Image here --! alt="" width="325" height="193" sizes="auto, (max-width: 325px) 100vw, 325px" /></p>
+<p>
+  
+![3 Lyric Lookup](https://github.com/user-attachments/assets/ffb08f7f-4582-47a0-9c0b-1a2f9d0bb3d1)
+![4 Lyric Results](https://github.com/user-attachments/assets/dcec6edb-bf15-42e8-bf91-183f7c1f89ff)
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 <p><strong>Google Search</strong></p>
 <p>If we cannot find your song lyrics, you can click the search with google button. This will open a new tab and google search the lyrics using the artist and song title that you already entered. From here you can find the lyrics you want, and paste them in the "paste lyrics" tab.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-137907" src="!-- Image here --!" alt="" width="475" height="282" sizes="auto, (max-width: 475px) 100vw, 475px" /></p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-137905" src="!-- Image here --!" alt="" width="475" height="282" sizes="auto, (max-width: 475px) 100vw, 475px" /></p>
+<p>
+  <img width="461" height="160" alt="Error Crop" src="https://github.com/user-attachments/assets/267ec4ce-7d31-48c8-b6dc-4815c81bc11a" />
+
+</p>
+<p>
+  
+  ![5 Google Lyrics](https://github.com/user-attachments/assets/71f3b427-b5b2-4c8f-9b8d-74c67ccbc223)
+
+</p>
 <p>(This button will only appear after clicking find)</p>
 <p>&nbsp;</p>
 <p><strong>Quiz Editing</strong></p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-137906" src="!-- Image here --!" alt="" width="475" height="282" sizes="auto, (max-width: 475px) 100vw, 475px" /></p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-137908" src="!-- Image here --!" alt="" width="474" height="281" sizes="auto, (max-width: 474px) 100vw, 474px" /></p>
+<p>
+  
+</p>
 <p>Each word is on its own line so you can paste the results directly into your quiz draft</p>
+<p>
+    <img width="1262" height="693" alt="Pasted In Quiz" src="https://github.com/user-attachments/assets/b34cdbf4-ca07-47ff-aa32-7498d67045b0" />
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>This is just a demonstration of V.01 of the missing word tool. More features are coming soon, and we will also continue to enhance and upgrade quiz tools with new features and adjustments based on your feedback (which can be shared in <a href="https://www.sporcle.com/groups/topics/77dd51e537db">this thread</a>). We hope you like what you see!</p>
+<p>This is just a demonstration of v2.0 of the missing word tool. More features are coming soon, and we will also continue to enhance and upgrade quiz tools with new features and adjustments based on your feedback (which can be shared in <a href="https://www.sporcle.com/groups/topics/77dd51e537db">this thread</a>). We hope you like what you see!</p>
