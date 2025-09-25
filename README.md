@@ -1,6 +1,6 @@
 # Missing-Lyric-Quiz-Helper
 
-<div class="entry-content clearfix"><p>Today we&#8217;ve released v2.0 of our Missing Word Quiz Tool, and below you will find some tips and images to help you get started in finding and working with a few of the new features. This tool is designed to help you find specific words in song lyrics to make missing word quizzes easier to create.</p>
+<div class="entry-content clearfix"><p>Today I&#8217;ve released v1.0 of my Missing Word Quiz Tool, and below you will find some tips and images to help you get started in finding and working with a few of the new features. This tool is designed to help you find specific words in song lyrics to make missing word quizzes easier to create.</p>
 <p>&nbsp;</p>
 <p><strong><h3>Pasting Lyrics</h3></strong></p>
 <p>If you already have the song lyrics you want, you can just paste them here in the lyric box</p>
@@ -61,4 +61,4 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>This is just a demonstration of v2.0 of the missing word tool. More features are coming soon, and we will also continue to enhance and upgrade quiz tools with new features and adjustments based on your feedback (which can be shared in <a href="https://www.sporcle.com/groups/topics/77dd51e537db">this thread</a>). We hope you like what you see!</p>
+<p>This is just a demonstration of v1.0 of the missing word tool. More features are coming soon (including searching by letter), and I will also continue to enhance and upgrade quiz tools with new features and adjustments based on your feedback. I hope you like what you see!</p>
