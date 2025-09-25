@@ -1,5 +1,5 @@
 body{
-  background-color: #00000063;
+  background-color: #f7f7f7;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -67,15 +67,17 @@ body{
 }
 
 .btn-dark {
-  color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  color: black;
+  background-color: #f29d39;
+  border-color: black;
 }
 
 .btn-dark:hover {
   color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  font-weight: 800;
+  background-color: #f29d39;
+  border-width: 2px;
+  border-color: black;
 }
 
 .nav-pills{
@@ -85,12 +87,21 @@ body{
 
 .nav-pills .nav-link {
   border-radius: 0px;
-  border-bottom: 1px solid #0d6efd40;
+  border-bottom: 1px solid #FFEF0040;
+  color: #000;
+  font-weight: 400;
 }
 
 .nav-item{
   display: table-cell;
-  background: #0d6efd2e;
+  background: #f29d392e;
+}
+
+.nav-pills .nav-link.active {
+  color: #000;
+  background-color: #f29d39;
+  border-color: #f29d39;
+  font-weight: 800;
 }
 
 .form{
@@ -113,7 +124,25 @@ body{
 
 .form input:focus{
   box-shadow: none;
+  border: 2px solid #f29d39;
+  outline: none;
 }
+
+textarea input:focus{
+  box-shadow: none;
+  border: 2px solid #f29d39;
+  outline: none;
+}
+
+/* textarea{
+  margin-bottom: 12px;
+  border-radius: 3px;
+  box-shadow: none;
+  border: 1px solid #ced4da;
+  padding: 10px; 
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+} */
 
 .form button{
   margin-top: 20px;
