@@ -31,21 +31,12 @@ body{
 .output {
   width: 100%;
   border: none;
-  /* border-radius: 5px; */
-  /* box-shadow: 0px 0px 10px 0px #0000008c; */
-  background: rgba(82, 82, 82, 0.22);
+  background: rgba(82, 82, 82, 0.066);
   font-size: 16px;
   font-weight: 400;
   color: #000;
-  /* max-height: 400px; */
-  /* height: 60vh; */
   height: auto;
   max-height: 60vh;
-  /* text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column; */
   overflow: auto;
   padding: 15px;
   margin-bottom: 20px;
@@ -134,22 +125,12 @@ textarea input:focus{
   outline: none;
 }
 
-/* textarea{
-  margin-bottom: 12px;
-  border-radius: 3px;
-  box-shadow: none;
-  border: 1px solid #ced4da;
-  padding: 10px; 
-  font-family: 'Poppins', sans-serif;
-  font-size: 14px;
-} */
 
 .form button{
   margin-top: 20px;
 }
 
 
-/* Make layout responsive on smaller screens */
 @media (max-width: 600px) {
   .row {
     flex-direction: column;
