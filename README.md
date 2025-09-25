@@ -1,4 +1,4 @@
-# Missing-Lyric-Quiz-Helper
+# [Missing-Lyric-Quiz-Helper]([url](https://domjon24.github.io/Missing-Lyric-Quiz-Helper/))
 
 <div class="entry-content clearfix"><p>Today I&#8217;ve released v1.0 of my Missing Word Quiz Tool, and below you will find some tips and images to help you get started in finding and working with a few of the new features. This tool is designed to help you find specific words in song lyrics to make missing word quizzes easier to create.</p>
 <p>&nbsp;</p>
